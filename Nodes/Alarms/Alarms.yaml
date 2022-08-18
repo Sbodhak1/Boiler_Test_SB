@@ -52,7 +52,7 @@ Children:
       Id: g=38170b78ef93fa71df1f07758ced589e
       Type: DataBind
       DataType: NodePath
-      Value: "../../../CommDrivers/EthernetIPDriver/EthernetIPStation/Tags/Tank1/Level"
+      Value: "../../../CommDrivers/EthernetIPDriver/EthernetIPStation/Tags/Controller Tags/Tank1/Level"
       Children:
       - Name: Mode
         Id: g=dda642fb80e0b926d566101d17de4350
@@ -98,7 +98,7 @@ Children:
       Id: g=a2dc1e3568fc6188e6bbcf14d630d3d7
       Type: DataBind
       DataType: NodePath
-      Value: "../../../CommDrivers/EthernetIPDriver/EthernetIPStation/Tags/Tank2/Level"
+      Value: "../../../CommDrivers/EthernetIPDriver/EthernetIPStation/Tags/Controller Tags/Tank2/Level"
       Children:
       - Name: Mode
         Id: g=6885f738fe5e7ef9e4561bafbfd9fb3c
